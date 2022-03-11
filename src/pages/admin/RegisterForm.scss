@@ -1,0 +1,25 @@
+@import "../../scss/index.scss";
+
+.register-card{
+	padding-top: 15px;
+	.ant-card-head-wrapper{
+		background-color: #1890FF;
+		color:white;
+		text-align: center;
+	}
+}
+.register-tabs{
+	width: 30% !important;
+	margin:0 auto !important;
+	margin-top:5% !important;
+	padding-top: 15px;
+}
+.registrar-form-button{
+	margin-top:10px;
+}
+.mensaje{
+	color:red;
+	margin-top:0px;
+	margin-bottom: 0px;
+	padding:0px;
+}	
